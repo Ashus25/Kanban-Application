@@ -1,4 +1,4 @@
-//Frontend(Vercel Toolkit)
+//Frontend
 
 ## Overview
 This is an Kanban application in which, Users should be able to:
